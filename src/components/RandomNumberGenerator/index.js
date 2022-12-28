@@ -28,7 +28,7 @@ class RandomNumberGenerator extends Component {
           >
             Generate
           </button>
-          <h1 className="ranNumber">{randomNumber}</h1>
+          <p className="ranNumber">{randomNumber}</p>
         </div>
       </div>
     )
