@@ -50,4 +50,5 @@ body {
 .ranNumber {
   font-size: 60px;
   color: #0b69ff;
+  font-weight: bold;
 }
